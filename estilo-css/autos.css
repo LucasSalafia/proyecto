@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .fondo {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  .logo {
+    top: 1px;
+    float: right;
+    height: 200px;
+    width: 220px;
+    border-radius: 180px;
+    position: absolute;
+    right: 0;
+  }
+  .a {
+    font-family: "rockwell";
+    font-size: 130px;
+    font-weight: 500;
+    text-align: center;
+    text-shadow: 6px 3px #2faef798;
+    color: rgb(7, 200, 248);
+  }
+  a:visited {
+    color: rgb(0, 132, 255);
+  }
+  .subtitulo {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #b9c7e7;
+    text-align: center;
+  }
+  .fotos {
+    margin-left: 500px;
+    width: 760px;
+    height: 450px;
+  }
+  .ul {
+    text-align: center;
+    color: rgb(233, 241, 241);
+  }
+  .b {
+    text-align: center;
+    color: rgb(135, 153, 167);
+  }
+  .navegador {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+  }
+  .navegador li {
+    padding: 0 18px;
+  }
+  .navegador a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 200px;
+    text-transform: uppercase;
+  }
+  .p {
+    color: rgb(180, 180, 180);
+    margin-top: 100px;
+    text-align: center;
+  }
+  
+  .wp {
+    color: #6d859c;
+  }
+  .pdp {
+    color: #6d859c;
+    text-decoration: none;
+  }
+  .mail {
+    color: #6d859c;
+    text-decoration: none;
+  }
+  .a2 {
+    color: #99a1a1;
+    font-size: 25px;
+  }
+  .redes {
+    color: #e2e6e6;
+    text-decoration: none;
+  }
+  .footer {
+    background-color: #000;
+    text-align-last: center;
+    color: #6d859c;
+    border-top: 2px solid orange;
+  }
+  
