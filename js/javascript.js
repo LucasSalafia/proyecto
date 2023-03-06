@@ -4,3 +4,10 @@ if (edad < 18) {
 } else {
   alert("Podes entrar, sos mayor de edad.");
 }
+var opcion = prompt ("Se encuentra en San Nicolas?")
+if (opcion=="si") {
+  alert   ("El envio no tiene costo")
+}
+else{
+  alert ("El envio tiene un costo desde $1000 ")
+}
